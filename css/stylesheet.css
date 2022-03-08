@@ -42,3 +42,12 @@ p{
     color:darksalmon;
     font-weight: bold;
 }
+
+table,th,td{
+    border: 1px solid;
+}
+
+table {
+    width:100%;
+    margin-top: 60px;
+}
