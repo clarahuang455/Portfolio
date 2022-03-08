@@ -1,0 +1,44 @@
+body{
+    background-color: aliceblue;
+    color:lightpink; 
+    font-style:italic;
+    font-size: 2rem;
+    margin: 50px;
+}
+
+h1 {
+   margin: 3px;
+   margin-bottom: 1cm;
+}
+
+h2{
+    color:pink;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 2.5rem ;
+    font-weight: bold;
+}
+
+a{
+    color:pink;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: 2px black solid;
+    padding: 20px;
+    margin: 160px;
+    margin-left: -1px;
+}
+
+img{
+    margin-top: 40px;
+}
+
+p{
+    margin-top:40px;
+}
+
+/* CSS classes */
+.error {
+    color:darksalmon;
+    font-weight: bold;
+}
