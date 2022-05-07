@@ -3,7 +3,7 @@ This is my portfolio [webstie](https://clarahuang.com/) to introduce myself!
 
 ## Home
 This page has my photos!
-![This is an image](https://clarahuang.com/)
+
 
 ## About
 1. Introduction
