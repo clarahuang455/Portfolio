@@ -1,5 +1,8 @@
 # Portfolio
 This is my portfolio [webstie](https://clarahuang.com/) to introduce myself!
+* [Home Page](#home)
+* [About Page](#about)
+* [Connect Page](#connect)
 
 ## Home
 This page has my photos!
